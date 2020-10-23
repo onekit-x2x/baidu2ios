@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'baidu2ios_Example' do
+  pod 'baidu2ios', :path => '../'
+
+  target 'baidu2ios_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

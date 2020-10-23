@@ -1,0 +1,6 @@
+framework module baidu2ios {
+  umbrella header "baidu2ios-umbrella.h"
+
+  export *
+  module * { export * }
+}

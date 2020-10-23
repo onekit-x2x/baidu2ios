@@ -1,0 +1,16 @@
+PODS:
+  - baidu2ios (0.1.0)
+
+DEPENDENCIES:
+  - baidu2ios (from `../`)
+
+EXTERNAL SOURCES:
+  baidu2ios:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  baidu2ios: 9bc20d4643b8964ebebc42bfc6ac706de29df01c
+
+PODFILE CHECKSUM: 39c393e97d9d6e7aa3cb50ba68f8e9f428425885
+
+COCOAPODS: 1.8.4
